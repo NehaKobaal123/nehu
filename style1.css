@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,700&display=swap');
+*{
+    padding: 0%;
+    margin: 0;
+    font-family: 'Bodoni Moda', serif;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(http://clipart-library.com/img1/1671196.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    align-content: center;
+    color: white;
+    font-weight: bolder;
+}
+h3{
+    color: white;
+}
+.card{
+    align-content: center;
+}
+pre{
+    text-align: center;
+}
+.frames frame1 p{
+    color: white;
+}
+.as1{
+    color: white;
+    filter: drop-shadow(3px 3px 5px #efeaea);
+}
+.as2{
+    margin-left: 600px;
+    margin-top: -430px;
+    color: white;
+    filter: drop-shadow(3px 3px 5px #efeaea);
+}
+.as3{
+    margin-left: 1180px;
+    margin-top: -460px;
+    color: white;
+    border: color(rgb(69, 67, 67));
+    filter: drop-shadow(3px 3px 5px #efeaea);
+}
+.inside pre{
+    color: red;
+}
+
